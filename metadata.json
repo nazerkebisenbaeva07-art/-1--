@@ -1,0 +1,6 @@
+{
+  "name": "Математика әлемі: Қосу және азайту",
+  "description": "1-сынып оқушыларына арналған интерактивті математикалық білім беру платформасы",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
